@@ -1,2 +1,6 @@
 target
 build.xml
+.git
+.idea
+*.iml
+color-thief-java.iml
